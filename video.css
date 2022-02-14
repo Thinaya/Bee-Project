@@ -1,0 +1,31 @@
+.heading{
+    width:100%;
+    margin:0;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#ankor{
+    font-size:30px;
+    font-family: 'Montserrat', sans-serif;
+    background-color:goldenrod;
+    color:darkslategrey;
+    border-color:darkslategrey;
+    border-radius: 8px;
+}
+
+body{
+    background-size:cover;
+    text-align:center;
+
+}
+
+img{
+    width:450px;
+    height:350px;
+}
+
+h3{
+    font-family: 'Oxygen', sans-serif;
+
+}
